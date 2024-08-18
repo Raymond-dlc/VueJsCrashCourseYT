@@ -1,14 +1,9 @@
 <script setup>
-import { ref, onMounted } from 'vue';
-import NavBar from '@/components/Navbar.vue'
-import Hero from '@/components/Hero.vue'
-import HomeCard from '@/components/HomeCard.vue'
-import JobListings from '@/components/JobListings.vue'
+import NavBar from '@/components/Navbar.vue';
+import { RouterView } from 'vue-router';
 </script>
 
 <template>
   <NavBar />
-  <Hero />
-  <HomeCard />
-  <JobListings :limit="3", :showButton="true"/>
+  <RouterView />
 </template>
