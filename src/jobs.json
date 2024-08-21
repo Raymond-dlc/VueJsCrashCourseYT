@@ -71,9 +71,8 @@
       }
     },
     {
-      "id": "012c",
       "type": "Remote",
-      "title": "sdfsdf",
+      "title": "But now actually updated",
       "description": "sdfsdf",
       "salary": "$80K - $90K",
       "location": "qweqwe",
@@ -82,7 +81,8 @@
         "description": "eqweqw",
         "contactEmail": "qweqw@edssdf.nl",
         "contactPhone": "dfsdf"
-      }
+      },
+      "id": "012c"
     },
     {
       "id": "736d",
@@ -138,6 +138,20 @@
         "description": "wef",
         "contactEmail": "wefew@iuhiu.uhiuh",
         "contactPhone": "iuhiuh"
+      }
+    },
+    {
+      "id": "45c2",
+      "type": "Remote",
+      "title": "A Normal title",
+      "description": "sdfsdf",
+      "salary": "$80K - $90K",
+      "location": "qweqwe",
+      "company": {
+        "name": "qweqw",
+        "description": "eqweqw",
+        "contactEmail": "qweqw@edssdf.nl",
+        "contactPhone": "dfsdf"
       }
     }
   ]
