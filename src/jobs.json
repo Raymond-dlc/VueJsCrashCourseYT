@@ -71,88 +71,18 @@
       }
     },
     {
-      "type": "Remote",
-      "title": "But now actually updated",
-      "description": "sdfsdf",
-      "salary": "$80K - $90K",
-      "location": "qweqwe",
+      "type": "Internship",
+      "title": "Vue Dev intern",
+      "description": "This is an internship, so you'll get paid in exposure :'> Which is totally cool of course, just.. apply ples",
+      "salary": "Under $50K",
+      "location": "Legit town",
       "company": {
-        "name": "qweqw",
-        "description": "eqweqw",
-        "contactEmail": "qweqw@edssdf.nl",
-        "contactPhone": "dfsdf"
+        "name": "Definitely a name company",
+        "description": "We do stuff, I promise!",
+        "contactEmail": "contact@something.com",
+        "contactPhone": "389493849"
       },
-      "id": "012c"
-    },
-    {
-      "id": "736d",
-      "type": "Remote",
-      "title": "sdfsdf",
-      "description": "sdfsdf",
-      "salary": "$80K - $90K",
-      "location": "qweqwe",
-      "company": {
-        "name": "qweqw",
-        "description": "eqweqw",
-        "contactEmail": "qweqw@edssdf.nl",
-        "contactPhone": "dfsdf"
-      }
-    },
-    {
-      "id": "e253",
-      "type": "Remote",
-      "title": "sdfsdf",
-      "description": "sdfsdf",
-      "salary": "$80K - $90K",
-      "location": "qweqwe",
-      "company": {
-        "name": "qweqw",
-        "description": "eqweqw",
-        "contactEmail": "qweqw@edssdf.nl",
-        "contactPhone": "dfsdf"
-      }
-    },
-    {
-      "id": "3859",
-      "type": "Remote",
-      "title": "sdfsdf",
-      "description": "sdfsdf",
-      "salary": "$80K - $90K",
-      "location": "qweqwe",
-      "company": {
-        "name": "qweqw",
-        "description": "eqweqw",
-        "contactEmail": "qweqw@edssdf.nl",
-        "contactPhone": "dfsdf"
-      }
-    },
-    {
-      "id": "d564",
-      "type": "Part-Time",
-      "title": "wefwef",
-      "description": "wefwef",
-      "salary": "$80K - $90K",
-      "location": "wefwef",
-      "company": {
-        "name": "wef",
-        "description": "wef",
-        "contactEmail": "wefew@iuhiu.uhiuh",
-        "contactPhone": "iuhiuh"
-      }
-    },
-    {
-      "id": "45c2",
-      "type": "Remote",
-      "title": "A Normal title",
-      "description": "sdfsdf",
-      "salary": "$80K - $90K",
-      "location": "qweqwe",
-      "company": {
-        "name": "qweqw",
-        "description": "eqweqw",
-        "contactEmail": "qweqw@edssdf.nl",
-        "contactPhone": "dfsdf"
-      }
+      "id": "d564"
     }
   ]
 }
